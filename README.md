@@ -1,2 +1,2 @@
 # gradual-domain-adaptation
-Code for Gradual Domain Adaptation
+The code is provided in https://github.com/yifei-he/GOAT
